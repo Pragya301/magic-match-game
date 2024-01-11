@@ -1,14 +1,21 @@
 import { useEffect, useState } from 'react';
 import './App.css';
 import SingleCard from './components/SingleCard';
+import doraemon from './img/doraemon.png';
+import nobita from './img/nobita.png';
+import shizuka from './img/shizuka.png';
+import gian from './img/gian.png';
+import suneo from './img/suneo.png';
+import dorami from './img/dorami.png';
+
 
 const cardImages =[
-  { "src": "/img/doraemon.png", matched: false },
-  { "src": "/img/nobita.png", matched: false },
-  { "src": "/img/shizuka.png", matched: false },
-  { "src": "/img/gian.png" , matched: false},
-  { "src": "/img/suneo.png" , matched: false},
-  { "src": "/img/dorami.png", matched: false }
+  { "src": doraemon, matched: false },
+  { "src": nobita, matched: false },
+  { "src": shizuka, matched: false },
+  { "src": gian , matched: false},
+  { "src": suneo, matched: false},
+  { "src": dorami, matched: false }
 ]
 
 function App() {
