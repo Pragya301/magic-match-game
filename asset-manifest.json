@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/magic-match-game/static/css/main.bb751530.css",
+    "main.js": "/magic-match-game/static/js/main.abe016a4.js",
+    "static/media/shizuka.png": "/magic-match-game/static/media/shizuka.3cf361096664521bb745.png",
+    "static/media/nobita.png": "/magic-match-game/static/media/nobita.e6b02c7c8548fc72a80e.png",
+    "static/media/doraemon.png": "/magic-match-game/static/media/doraemon.bf85a276af3290f01fac.png",
+    "static/media/dorami.png": "/magic-match-game/static/media/dorami.57e21de893f0191e7d34.png",
+    "static/media/gian.png": "/magic-match-game/static/media/gian.d938fbb7d5f18679890a.png",
+    "static/media/suneo.png": "/magic-match-game/static/media/suneo.7e2d849ffb90a7cf0fe3.png",
+    "static/media/cover.jpg": "/magic-match-game/static/media/cover.3de8adca790d39d416e9.jpg",
+    "index.html": "/magic-match-game/index.html",
+    "main.bb751530.css.map": "/magic-match-game/static/css/main.bb751530.css.map",
+    "main.abe016a4.js.map": "/magic-match-game/static/js/main.abe016a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb751530.css",
+    "static/js/main.abe016a4.js"
+  ]
+}
